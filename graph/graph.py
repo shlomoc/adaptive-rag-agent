@@ -11,8 +11,6 @@ from graph.nodes import generate, grade_documents, retrieve, web_search
 from graph.state import GraphState
 
 load_dotenv()
-memory = SqliteSaver.from_conn_string(":memory:")
-memory = MemorySaver()
 
 
 def decide_to_generate(state: GraphState) -> str:
