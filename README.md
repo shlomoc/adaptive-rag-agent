@@ -14,9 +14,9 @@ by Sophia Young from Mistral & Lance Martin from LangChain from LangChain
 - **Replaced Chroma db vectorstore with Pinecone**
 - **Added Streamlit UI chatbot**
 - **Refactored Notebooks**: The original LangChain notebooks have been refactored to enhance readability, maintainability, and usability for developers.
-- **Production-Oriented**: The codebase is designed with a focus on production readiness, allowing developers to seamlessly transition from experimentation to deployment.
-- **Test Coverage**: Test coverage ensures the reliability and stability of the application, enabling developers to validate their implementations effectively.
-- **Documentation**: Detailed documentation and branches guides developers through setting up the environment, understanding the codebase, and utilizing LangGraph effectively.
+- **Production-Oriented**: The codebase is designed with a focus on production readiness, allowing developers to transition from experimentation to deployment seamlessly.
+- **Test Coverage**: Test coverage ensures the application's reliability and stability, enabling developers to validate their implementations effectively.
+- **Documentation**: Detailed documentation guides developers through setting up the environment, understanding the codebase, and utilizing LangGraph effectively.
 
 ## Environment Variables
 
